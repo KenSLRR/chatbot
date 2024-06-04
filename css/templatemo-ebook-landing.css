@@ -183,31 +183,6 @@ strong {
   margin-right: 10px;
 }
 
-/*-----------------------------------*\
-  #PRIVACY
-\*-----------------------------------*/
-
-.privacy {
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.link-privacy {
-  display: block;
-  text-decoration: none;
-  color: var(--light-gray);
-  font-size: 14px;
-  font-weight: var(--fw-500);
-  padding: 0.5rem;
-}
-
-
-.privacy-text a {
-  color: var(--bittersweet-shimmer) !important;
-}
-
 
 /*---------------------------------------
   CUSTOM LINK              
@@ -963,6 +938,31 @@ strong {
   color: var(--white-color);
 }
 
+/*-----------------------------------*\
+  #PRIVACY
+\*-----------------------------------*/
+
+.privacy {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-privacy {
+  display: block;
+  text-decoration: none;
+  color: var(--light-gray);
+  font-size: 14px;
+  font-weight: var(--fw-500);
+  padding: 0.5rem;
+}
+
+
+.privacy-text a {
+  color: var(--bittersweet-shimmer) !important;
+}
+
 
 /*---------------------------------------
   RESPONSIVE STYLES               
@@ -1026,6 +1026,31 @@ strong {
   .ebook-download-form {
     padding: 30px;
   }
+
+  /*-----------------------------------*\
+  #PRIVACY
+\*-----------------------------------*/
+
+.privacy {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-privacy {
+  display: block;
+  text-decoration: none;
+  color: var(--light-gray);
+  font-size: 14px;
+  font-weight: var(--fw-500);
+  padding: 0.5rem;
+}
+
+
+.privacy-text a {
+  color: orange !important;
+}
 }
 
 @media screen and (max-width: 480px) {
