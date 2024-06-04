@@ -686,6 +686,11 @@ strong {
   padding-left: 40px;
 }
 
+.textt {
+  padding: 40px;
+}
+
+
 .nav-pills {
   border: 2px solid var(--primary-color);
   border-radius: var(--border-radius-medium);
